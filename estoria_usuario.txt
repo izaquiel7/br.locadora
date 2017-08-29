@@ -1,0 +1,8 @@
+Usuario:	 me cadastrar     Ter facilidade no acesso ao conteudo
+Usuario:	fazer     Ter acesso ao conteudo desejado	5
+Usuario:	visualizar os games	Ver descricao do game		4
+Usuario:	 listar os games		Escolher qual o game de meu interesse		4
+------------------------------------------------------------------------------------------------------------------------
+Administrador:   fazer login	Ter acesso as funcionades adm	 5
+Administrador: 	 cadastrar game		Que tenha games na lista	 5
+Administrador: 	 atualizar lista de games		Repor os games que foram locados... 4
